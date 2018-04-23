@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fire2.wav-3ea6043569f77a7a06f5575102bced96.sample"
+
+[deps]
+
+source_file="res://Assets/sounds/Fire2.wav"
+source_md5="b18488d587d721afd1a1ab98faaf5a09"
+
+dest_files=[ "res://.import/Fire2.wav-3ea6043569f77a7a06f5575102bced96.sample" ]
+dest_md5="cb993875ea2bfba6d543b749ad41ea0e"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
